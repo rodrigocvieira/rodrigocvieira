@@ -49,4 +49,4 @@ Curiosidades.
 </div>
 
 ## Projetos públicos
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigocvieira&repo=e-share-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/rodrigocvieira/e-share-api)
