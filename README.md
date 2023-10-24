@@ -3,10 +3,10 @@
 Curiosidades.
 
 - Dev desde 2011
-- Ja fui lider técnico
+- Já fui lider técnico
 - Atualmente sou desenvolvedor Senior
 
-## Tecnologias e ferramentas que já atilizei
+## Tecnologias e ferramentas que já utilizei
 
 #### Backend
 <div style="display=inline">
@@ -49,5 +49,5 @@ Curiosidades.
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
 </div>
 
-## Projetos publico
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigocvieira&repo=e-share-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+## Projetos públicos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigocvieira&repo=e-share-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/rodrigocvieira/e-share-api)
